@@ -1,0 +1,530 @@
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 21:26:46 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 536ms (Views: 530.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 21:28:46 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 16ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=chocolate" for ::1 at 2020-10-07 21:29:06 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"chocolate"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 15ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:29:13 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:30:06 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:30:06 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:30:08 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 18ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:30:09 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:30:15 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-10-07 21:34:14 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/railties-4.2.11.1/lib/rails/templates/rails/welcome/index.html.erb (1.2ms)
+Completed 200 OK in 13ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:34:16 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 175ms (Views: 171.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/recipes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2020-10-07 21:34:16 -0700
+
+
+Started GET "/assets/recipes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2020-10-07 21:34:16 -0700
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-10-07 21:34:16 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2020-10-07 21:34:16 -0700
+
+
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1" for ::1 at 2020-10-07 21:34:16 -0700
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-10-07 21:34:16 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2020-10-07 21:34:16 -0700
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:34:17 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 10ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 21:34:17 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:34:19 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:34:19 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:34:19 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:34:19 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-10-07 21:40:09 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/railties-4.2.11.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:40:11 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 18ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/recipes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2020-10-07 21:40:11 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2020-10-07 21:40:11 -0700
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-10-07 21:40:11 -0700
+
+
+Started GET "/assets/recipes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2020-10-07 21:40:11 -0700
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-10-07 21:40:11 -0700
+
+
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1" for ::1 at 2020-10-07 21:40:11 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2020-10-07 21:40:11 -0700
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:40:11 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 10ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 21:40:12 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:40:14 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:40:14 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:40:14 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:40:14 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-10-07 21:45:41 -0700
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: 'recipes/index'` to `controller: 'recipes/index'`. (called from block in <top (required)> at /Users/hieutrinh/git/coursera_jhu/ruby_on_rails/module3/recipe_puppy_bootstrap/config/routes.rb:9)
+
+ArgumentError (Missing :action key on routes definition, please check your routes.):
+  config/routes.rb:9:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.1ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (25.1ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (25.0ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/hieutrinh/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (48.8ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:45:44 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/recipes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2020-10-07 21:45:44 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2020-10-07 21:45:44 -0700
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-10-07 21:45:44 -0700
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-10-07 21:45:44 -0700
+
+
+Started GET "/assets/recipes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2020-10-07 21:45:44 -0700
+
+
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1" for ::1 at 2020-10-07 21:45:44 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2020-10-07 21:45:44 -0700
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:45:45 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 15ms (Views: 11.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 21:45:45 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:45:47 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:45:48 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:45:48 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:45:48 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-10-07 21:46:17 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 18ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/recipes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2020-10-07 21:46:17 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2020-10-07 21:46:17 -0700
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-10-07 21:46:17 -0700
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-10-07 21:46:17 -0700
+
+
+Started GET "/assets/recipes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2020-10-07 21:46:17 -0700
+
+
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1" for ::1 at 2020-10-07 21:46:17 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2020-10-07 21:46:17 -0700
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:46:18 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 10ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:46:18 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 21:46:18 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:46:20 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:46:20 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:46:20 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 10ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:46:20 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:48:48 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-10-07 21:48:53 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?search=amarula" for ::1 at 2020-10-07 21:50:31 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?search=amarula" for ::1 at 2020-10-07 21:55:11 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (16.8ms)
+Completed 200 OK in 26ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-10-07 21:55:24 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 14ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/recipes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2020-10-07 21:55:24 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2020-10-07 21:55:24 -0700
+
+
+Started GET "/assets/recipes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2020-10-07 21:55:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-10-07 21:55:24 -0700
+
+
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1" for ::1 at 2020-10-07 21:55:24 -0700
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-10-07 21:55:24 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2020-10-07 21:55:24 -0700
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:55:24 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 14ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 21:55:24 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 21:55:25 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 27ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:55:25 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 10ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:55:25 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:55:25 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 21:55:25 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 11ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-10-07 22:00:00 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 23ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/recipes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2020-10-07 22:00:00 -0700
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-10-07 22:00:00 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2020-10-07 22:00:00 -0700
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-10-07 22:00:00 -0700
+
+
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1" for ::1 at 2020-10-07 22:00:00 -0700
+
+
+Started GET "/assets/recipes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2020-10-07 22:00:00 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2020-10-07 22:00:00 -0700
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 22:00:00 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 14ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=bread" for ::1 at 2020-10-07 22:00:00 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"bread"}
+  Rendered recipes/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 14ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index?search=amarula" for ::1 at 2020-10-07 22:00:00 -0700
+Processing by RecipesController#index as HTML
+  Parameters: {"search"=>"amarula"}
+  Rendered recipes/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 22:00:00 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 22:00:00 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 14ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 22:00:01 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 15ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/recipes/index" for ::1 at 2020-10-07 22:00:01 -0700
+Processing by RecipesController#index as HTML
+  Rendered recipes/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 12ms (Views: 10.7ms | ActiveRecord: 0.0ms)
